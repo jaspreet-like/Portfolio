@@ -105,6 +105,7 @@ hr{
 .contact-message{
   width: 40%;
   margin: 40px auto 70px;
+  text-align: center;
 }
 .footer-link{
   color: #0a97b0;
